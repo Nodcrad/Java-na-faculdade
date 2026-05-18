@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 // ===============================================
+// Versao com interace no terminal
+// ===============================================
+
+// ===============================================
 // 1. CLASSE PAI (PRODUTO)
 // ===============================================
 class Produto {
